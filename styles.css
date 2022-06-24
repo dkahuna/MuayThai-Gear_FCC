@@ -1,5 +1,11 @@
+body {
+    background-image: url(https://thumbs.dreamstime.com/b/d-boxer-arena-viewers-empty-boxing-ring-under-lights-full-tribune-wide-angle-rendering-background-197183273.jpg);
+    background-size: cover;
+}
+
 h1, h2 {
     text-align: center;
+    color: white;
 }
 
 div {
