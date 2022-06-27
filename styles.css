@@ -3,7 +3,7 @@ body {
     background-size: cover;
 }
 
-h1, h3 {
+h1, h3, h5 {
     text-align: center;
     color: black;
 }
@@ -22,9 +22,16 @@ margin-right: auto;
 .brand {
     text-align: left;
     width: 50%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .price {
     text-align: right;
     width: 49%;
+    font-weight: bold;
+}
+
+hr {
+    height: 4px;
+    width: 80%;
 }
